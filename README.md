@@ -1,5 +1,5 @@
-Android S/MIME sender using NFC smart card
-==========================================
+Android MuscleCard S/MIME sender
+================================
 
 Sample Android S/MIME client that can use a contactless smart card 
 running the MuscleCard applet for email signing. Local keys imported 
